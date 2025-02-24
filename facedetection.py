@@ -2,10 +2,7 @@ import numpy, cv2, mediapipe
 from module import findnameoflandmark,findpostion
 from collections import Counter
 
-### C:\Users\invate\AppData\Local\Programs\Python\Python38\Hackathon   <-- python files stored here
-# In that folder there is "code-for-hand-identification somethig someting." THat does stuff individually (like counting fingers), might be useful if stuck
-#
-#https://www.youtube.com/watch?v=a7B5EZVHHkw&t=274s  <-- Very useful video
+#https://www.youtube.com/watch?v=a7B5EZVHHkw&t=274s  <-- Video used as source for some code
 #
 
 
